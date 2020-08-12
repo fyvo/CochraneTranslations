@@ -1,0 +1,2 @@
+# CochraneTranslations
+foobar
